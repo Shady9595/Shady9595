@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Shady9595-black)](https://github.com/Shady9595)
 
 ## 🚀 About Me
-Senior Game Developer with **8+ years of experience** specializing in Unity3D and C#.  
+Senior Game Developer with **5+ years of experience** specializing in Unity3D and C#.  
 I build high-performing games, optimize systems, create tools, and deliver polished gameplay experiences across Hyper-Casual, Puzzle, LiveOps, and Multiplayer genres.
 
 ---
