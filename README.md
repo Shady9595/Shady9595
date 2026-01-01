@@ -26,6 +26,5 @@ I build high-performing games, optimize systems, create tools, and deliver polis
 ### **Tools & Technologies**
 - 🔧 **Unity**, **C#**, **C++**
 - 🎨 **Photoshop**, **Figma**, **Blender**
-- ⚙️ **DarkRift2**, **Photon**, **REST APIs**
 - 📦 **Git**, **Addressables**, **Editor Tooling**
 - 🧩 **Shader Graph**, **UI/UX Implementation**
