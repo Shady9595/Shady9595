@@ -2,7 +2,7 @@
 
 ## 🎮 Senior Game Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-osama-anwar-90854a151-blue)](https://www.linkedin.com/in/osama-anwar-90854a151/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-osama-anwar-blue)](https://www.linkedin.com/in/osama-anwar-90854a151/)
 [![GitHub](https://img.shields.io/badge/GitHub-Shady9595-black)](https://github.com/Shady9595)
 
 ## 🚀 About Me
