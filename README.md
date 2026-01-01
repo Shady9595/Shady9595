@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Osama Anwar
 
-<!--
-**Shady9595/Shady9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎮 Senior Game Developer
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shady9595-blue)](https://www.linkedin.com/in/osama-anwar-90854a151/)
+[![GitHub](https://img.shields.io/badge/GitHub-Shady9595-black)](https://github.com/Shady9595)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Senior Game Developer with **8+ years of experience** specializing in Unity3D and C#.  
+I build high-performing games, optimize systems, create tools, and deliver polished gameplay experiences across Hyper-Casual, Puzzle, LiveOps, and Multiplayer genres.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### **Game Development**
+| Skill | Level |
+|-------|-------|
+| Unity3D | ████████████████████ 95% |
+| C# Programming | █████████████████ 90% |
+| Game Design & Systems | ██████████████ 85% |
+| AR/VR | ████████████ 80% |
+| Addressables | ███████████ 75% |
+| Optimization & Tools | ███████████████ 90% |
+
+### **Tools & Technologies**
+- 🔧 **Unity**, **C#**, **C++**
+- 🎨 **Photoshop**, **Figma**, **Blender**
+- ⚙️ **DarkRift2**, **Photon**, **REST APIs**
+- 📦 **Git**, **Addressables**, **Editor Tooling**
+- 🧩 **Shader Graph**, **UI/UX Implementation**
